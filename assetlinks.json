@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.lovmizu_android_pwa.twa",
+      "sha256_cert_fingerprints": [
+        "61:27:CC:FD:61:76:5D:DD:28:19:4A:D8:80:B5:44:8E:22:1B:40:89:49:FB:C9:58:10:62:4A:12:05:F8:CE:45"
+      ]
+    }
+  }
+]
